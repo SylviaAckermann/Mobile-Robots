@@ -1,0 +1,8 @@
+world obstacles4k.wld
+
+settings VIS TRACE
+
+marker  500  500    0 255 0
+marker 2500 2800  255   0 0
+
+S4 500 500 0 distbug.x

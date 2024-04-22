@@ -1,0 +1,12 @@
+# Sim file created 05/04/2023 8:55 PM
+
+# World File 
+world "small.maz"
+
+settings VIS TRACE
+
+# Robots
+S4 180 180 0
+
+# Objects
+# Markers

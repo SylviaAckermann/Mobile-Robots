@@ -1,0 +1,8 @@
+world diagonal.wld
+
+settings VIS TRACE
+
+marker  550  3500    0 255 0
+marker 3500 400  255   0 0
+
+S4 550 3500 0 quadTree.x

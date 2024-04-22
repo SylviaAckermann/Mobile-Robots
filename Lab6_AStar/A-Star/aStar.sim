@@ -1,0 +1,12 @@
+# Sim file created 05/01/2023 12:31 PM
+
+# World File 
+world "aStar_world.wld"
+
+settings VIS TRACE
+
+# Robots
+S4 500 500 90
+
+# Objects
+# Markers

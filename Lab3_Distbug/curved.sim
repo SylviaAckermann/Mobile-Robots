@@ -1,0 +1,8 @@
+world curved.wld
+
+settings VIS TRACE
+
+marker  500  500    0 255 0
+marker 2700 2300  255   0 0
+
+S4 500 500 0 distbug.x
